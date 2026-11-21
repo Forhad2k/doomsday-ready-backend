@@ -1,0 +1,14 @@
+node_modules
+dist
+.env
+.env*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+
+# Agent skills synced via postinstall (npm install)
+.claude/
+.cursor/
+.devin/
+.agents/
